@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "/Users/hirokitakahashi/Downloads/授業汎用/2019_0917"
+		},
+		{
+			"path": "/Applications/MAMP/htdocs/laravel"
+		},
+		{
+			"path": "/Users/hirokitakahashi/Desktop/授業練習問題なんかいれるやつ/お悩み切り分けフォーム（仮）"
+		}
+	],
+	"settings": {
+		"php.validate.enable": false,
+		"php.suggest.basic": false
+	}
+}
