@@ -22,7 +22,6 @@
     <!-- Current Tasks -->
     <h2>やること一覧</h2>
     <table class="table table-striped table-hover">
-    
 
         <tbody>
             @foreach ($tasks as $task)
